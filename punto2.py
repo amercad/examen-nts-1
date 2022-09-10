@@ -1,7 +1,7 @@
 frutas = []
 
 
-for i in range(2):
+for i in range(10):
     fruta = {}
     fruta['nombre'] = input('Digite el nombre de la fruta: ')
     fruta['color'] = input('Digite el color de la fruta: ')
