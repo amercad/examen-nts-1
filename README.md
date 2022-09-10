@@ -9,5 +9,8 @@
 </p>
 
 ***
+## TEMAS
+- Listas
+- Diccionario
 
 Programado por: _Andrés Mercado_
